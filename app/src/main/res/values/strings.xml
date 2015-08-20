@@ -1,0 +1,16 @@
+<resources>
+	<string name="app_name">Popular Movies</string>
+	<string name="sort_most_popular">Most Popular</string>
+	<string name="highest_rated">Highest-Rated</string>
+	<string name="title_activity_movies_detail">Movie Details</string>
+	<string name="title_activity_detail">DetailActivity</string>
+	<string name="movie_details">Movie Details</string>
+	<string name="movie_details_unknown">Sorry, this movie has bad details</string>
+	<string name="trailer">Trailer</string>
+	<string name="reviews">Reviews</string>
+	<string name="no_network">You are currently offline :(</string>
+	<string name="favs">Favorites</string>
+	<string name="share">Share</string>
+	<string name="share_content">Check out this movie:</string>
+</resources>
+
